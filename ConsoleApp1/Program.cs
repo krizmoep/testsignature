@@ -30,6 +30,7 @@ namespace ConsoleApp1
             Console.WriteLine(harry.weihnachtsMann1);
             Console.ReadKey();
 
+            int hallo = 342;
 
         }
     }
