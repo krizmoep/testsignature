@@ -26,6 +26,9 @@ namespace ConsoleApp1
             harry.weihnachtsMann1 = "Gurkensalat";
             Console.WriteLine(harry.weihnachtsMann1);
             Console.ReadKey();
+            harry.weihnachtsMann1 = "One two three";
+            Console.WriteLine(harry.weihnachtsMann1);
+            Console.ReadKey();
 
 
         }
