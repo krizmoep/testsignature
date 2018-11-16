@@ -18,6 +18,11 @@ namespace ConsoleApp1
 
             Console.WriteLine("Hallo hallo Hallo, dritte Änderung");
 
+            Weihnachtsmann harry = new Weihnachtsmann();
+
+            harry.weihnachtsMann1 = "Schinkenwurst";
+            Console.WriteLine(harry.weihnachtsMann1);
+            Console.ReadKey();
         }
     }
 }
