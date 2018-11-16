@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hallo Weihnachtsmann!");
             Console.ReadKey();
 
-            Console.WriteLine(".. und ich bin der Nikolaus");
+            Console.WriteLine(".. und ich bin der Hampelmann");
             Console.ReadKey();
 
             Console.WriteLine("Hallo hallo Hallo, dritte Änderung");
